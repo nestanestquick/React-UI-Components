@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .calculator-container {
+    max-width: 400px;
+    margin-left: 25%;
+    margin-top: 10%;
+  }
